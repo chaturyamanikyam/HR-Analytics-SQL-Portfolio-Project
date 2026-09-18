@@ -19,7 +19,7 @@ The main objectives of this project are:
 
 ## Dataset
 
-** Dataset:** IBM HR Analytics Employee Attrition & Performance
+**Dataset:** IBM HR Analytics Employee Attrition & Performance
 
 **Records:** 1,470 employees
 
