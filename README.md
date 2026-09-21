@@ -88,4 +88,4 @@ HR-Analytics-SQL-Portfolio-Project/
 │   └── HR_Analytics_Analysis.sql
 │
 └── Dataset/
-    └── HR-Employee-Attrition.csv
+    └── EmployeeDate.csv
