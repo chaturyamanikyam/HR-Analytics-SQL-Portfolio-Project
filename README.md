@@ -67,7 +67,7 @@ The project contains **50 SQL business questions**, including:
 Some important findings from the analysis include:
 
 - Overall employee attrition rate is **16.12%**.
-- Sales has an attrition rate of **20.63%**.
+- Sales has an attrition rate of **28.70%**.
 - Employees working overtime have an attrition rate of **30.53%**, compared with **10.44%** for employees who do not work overtime.
 - Sales Representatives have an attrition rate of **39.76%**.
 - Employees aged under 25 have an attrition rate of **39.18%**.
@@ -88,4 +88,4 @@ HR-Analytics-SQL-Portfolio-Project/
 │   └── HR_Analytics_Analysis.sql
 │
 └── Dataset/
-    └── EmployeeDate.csv
+    └── EmployeeData.csv
